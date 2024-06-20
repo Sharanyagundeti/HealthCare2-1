@@ -1,0 +1,133 @@
+h3{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    color: white;
+}
+ 
+img{
+    width: 70px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+ 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin-left: 320px;
+    margin-right: 320px;
+    margin-top: 30px;
+    
+    padding-bottom: 20px;
+    border-radius: 10px;
+   
+}
+.profile-form{
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+.form-group{
+    color: white;
+   
+}
+.form-name{
+    margin-left: 70px;
+    font-size:15px;
+}
+.form-password{
+    margin-left: 40px;
+    font-size:15px;
+}
+.form-date{
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size:15px;
+}
+.gender-selection{
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size:20px;
+}
+ 
+.gender-selection label {
+    margin-left: 10px;
+}
+.form-mobile{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.form-speciality{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size:16px;
+}
+button{
+    margin-left: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: darkgreen;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.form-email{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size:16px;
+}
+.form-pincode{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.form-city{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size:16px;
+}
+.form-state{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.form-country{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size:16px;
+}
+button{
+    margin-left: 200px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: darkgreen;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.name-error{
+    font-size: 10px;
+    color:rgb(199, 27, 27)
+}
+.users{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin-left: 320px;
+    margin-right: 320px;
+    height: 520px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    padding-bottom: -20px;
+    border-radius: 10px;
+    width: 550px;
+    
+}
